@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.header {
+}
+.headimg {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.navbar {
+	margin: 0;
+}
+h2 {
+	text-align: center;
+}
